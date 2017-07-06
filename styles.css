@@ -6,8 +6,8 @@ p {
     font-family: 'Raleway', sans-serif;
 }
 
-#content a:visited {
-    color: inherit;
+#content a:visited, #content a:link {
+    color: black;
 }
 
 #languagebutton h5:hover{
