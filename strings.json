@@ -13,7 +13,7 @@
         "experiences" : [
           {
             "title" : "Greencopper",
-            "content" : "Start-up montréalaise, spécialisée dans les applications de festivals, j'y ai fais un stage de 6 mois l'année dernière en tant que <strong>développeur </strong><strong>mobile</strong>.",
+            "content" : "Start-up montréalaise, spécialisée dans les applications de festivals, j'y ai fait un stage de 6 mois l'année dernière en tant que <strong>développeur </strong><strong>mobile</strong>.",
             "competences" : ["Python","Git","Fastlane","Java","Swift"]
           },
           {

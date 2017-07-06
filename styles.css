@@ -112,7 +112,7 @@ p {
 #content h4 {
     margin-left: 5%;
     margin-right: 5%;
-    background: linear-gradient(to bottom left,#FFFF00 0%,#00FFFF 130%);
+    background: linear-gradient(to bottom left,#FFFF00 0%,#00FFFF 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 900;
@@ -137,7 +137,7 @@ p {
 }
 
 #content strong {
-    background: linear-gradient(to bottom left,#FFFF00 0%,#00FFFF 130%);
+    background: linear-gradient(to bottom left,#FFFF00 0%,#00FFFF 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: justify;
