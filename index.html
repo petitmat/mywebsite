@@ -31,6 +31,9 @@
                 var data = JSON.parse(response);
                 console.log(data);
                 var ids = ["left-title","left-text","left-button"];
+                if (language.indexOf("fr") + 1){
+                    language = "fr";
+                }
                 if (!(language in data)){
                     language = "en";
                 }
