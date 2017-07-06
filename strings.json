@@ -1,0 +1,71 @@
+{
+  "fr": {
+    "left-title":"Salut, je suis <strong>Matthieu<strong/>,",
+    "left-text":"Étudiant en <strong>data-mining</strong><br/> à la recherche d'un <strong>stage</strong> pour février 2018",
+    "left-button":"on se contacte ?",
+    "sections" : [
+      {
+        "title":"qui ?",
+        "content":"Je suis Matthieu Petit, étudiant de 21 ans en 5ème année à <strong>l'UTC</strong> (Université de Technologie de Compiègne) en Génie Informatique. Fort d'un background professionnel de développeur mobile, et ayant réalisé des <strong>projets</strong> personnels d'analyses de données."
+      },
+      {
+        "title" : "Expériences ?",
+        "experiences" : [
+          {
+            "title" : "Greencopper",
+            "content" : "Start-up montréalaise, spécialisée dans les applications de festivals, j'y ai fais un stage de 6 mois l'année dernière en tant que <strong>développeur </strong><strong>mobile</strong>.",
+            "competences" : ["Python","Git","Fastlane","Java","Swift"]
+          },
+          {
+            "title" : "Imaginarium Festival",
+            "content" : "Association de l'UTC organisant un festival électro-rock réunissant plus de <strong>10000</strong> personnes. Nous avons réalisé, à deux, l'application de l'édition 2017.",
+            "competences" : ["React Native", "Javascript"]
+          },
+          {
+            "title" : "Autres compétences",
+            "competences" : ["SQL","Cassandra","R", "Gephi", "Méthodes agiles"]
+          }
+        ]
+      },
+      {
+        "title" : "Quoi ?",
+        "content" : "Je recherche un stage d'<strong>ingénieur</strong> en analyse de données entre février en juillet 2018. J'adore découvrir de nouvelles technos et perfectionner celles que je connais déjà. Passionné tant par la <strong>visualisation</strong> que l'<strong>analyse</strong> des données, j'aime être à la recherche des mystères qu'elles recèlent."
+      }
+    ]
+  },
+  "en":{
+    "left-title":"Hi, I'm <strong>Matthieu</strong>,",
+    "left-text":"A <strong>data-mining</strong> student<br/> looking for an <strong>internship</strong> starting in February",
+    "left-button":"get in touch ?",
+    "sections" : [
+      {
+        "title":"who?",
+        "content":"I'm Matthieu Petit, 21 y-o and I'm studying computer-science engineering for 5 years at <strong>UTC</strong> (University of Technology of Compiègne). I have a professional background as mobile-dev, and I realized personal data-analysis <strong>projects</strong>."
+      },
+      {
+        "title":"What?",
+        "experiences":[
+          {
+            "title" : "Greencopper",
+            "content" : "A Montreal strat-up, producing mobile apps for festivals. I've made a 6-month internship here as <strong>mobile-dev</strong> last year.",
+            "competences" : ["Python","Git","Fastlane","Java","Swift"]
+          },
+          {
+            "title" : "Imaginarium Festival",
+            "content" : "A UTC association organizing an electro-rock festival with more <strong>10000</strong> fans. We made the application of 2017 edition with a friend.",
+            "competences" : ["React Native", "Javascript"]
+          },
+          {
+            "title" : "Other skills",
+            "competences" : ["SQL","Cassandra","R", "Gephi", "Agile methods"]
+          }
+        ]
+      },
+      {
+        "title":"What's next?",
+        "content" : "I'm looking for a <strong>engineer</strong> internship in data-analysis from February to July 2018. I love discovering new techs and improve my skills. Enthusiastic about data <strong>visualization</strong> and <strong>analysis</strong>, I like to be in search of the mysteries of a dataset. "
+
+      }
+    ]
+  }
+}
