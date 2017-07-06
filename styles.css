@@ -12,12 +12,44 @@ p {
         top: 0;
         bottom: 0;
     }
+    #button p {
+        padding:15px;
+    }
+    .socialbuttons {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 3%;
+    }
+
+    #presentation p,h5 {
+        line-height: 2;
+        font-size: 110%;
+    }
 }
 
 @media (max-width: 768px){
     #left {
-        height: 70%;
+        height: 80%;
     }
+    #button p {
+        padding:10px;
+    }
+    .socialbuttons {
+        position: absolute;
+        top:3%;
+        right:5%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 3%;
+    }
+    #presentation p,h5 {
+        line-height: 1.5;
+    }
+
 }
 
 .me {
@@ -36,7 +68,7 @@ p {
     color: white;
     vertical-align: bottom;
     text-align:center;
-    line-height: 2;
+    line-height: 1.5;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -44,8 +76,6 @@ p {
     color: white;
     vertical-align: bottom;
     text-align:center;
-    line-height: 2;
-    font-size: 110%;
 }
 
 #languagebutton strong, #presentation strong {
@@ -67,7 +97,6 @@ p {
     color:#fff;
     text-align:center;
     background: linear-gradient(to bottom left,#FFFF00 0%,#00FFFF 70%);
-    padding:15px;
     font-weight: 700;
 }
 
@@ -120,14 +149,6 @@ p {
     position:absolute;
     top:3%;
     left:5%;
-}
-
-.socialbuttons {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 3%;
 }
 
 #socialbuttons a {
