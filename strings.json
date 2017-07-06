@@ -12,11 +12,13 @@
         "title" : "Expériences ?",
         "experiences" : [
           {
+            "link" : "https://www.greencopper.com/",
             "title" : "Greencopper",
             "content" : "Start-up montréalaise, spécialisée dans les applications de festivals, j'y ai fait un stage de 6 mois l'année dernière en tant que <strong>développeur </strong><strong>mobile</strong>.",
             "competences" : ["Python","Git","Fastlane","Java","Swift"]
           },
           {
+            "link" : "https://imaginariumfestival.com/",
             "title" : "Imaginarium Festival",
             "content" : "Association de l'UTC organisant un festival électro-rock réunissant plus de <strong>10000</strong> personnes. Nous avons réalisé, à deux, l'application de l'édition 2017.",
             "competences" : ["React Native", "Javascript"]
@@ -46,11 +48,13 @@
         "title":"What?",
         "experiences":[
           {
+            "link" : "https://www.greencopper.com/",
             "title" : "Greencopper",
             "content" : "A Montreal strat-up, producing mobile apps for festivals. I've made a 6-month internship here as <strong>mobile-dev</strong> last year.",
             "competences" : ["Python","Git","Fastlane","Java","Swift"]
           },
           {
+            "link" : "https://imaginariumfestival.com/",
             "title" : "Imaginarium Festival",
             "content" : "A UTC association organizing an electro-rock festival with more <strong>10000</strong> fans. We made the application of 2017 edition with a friend.",
             "competences" : ["React Native", "Javascript"]

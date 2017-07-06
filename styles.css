@@ -6,6 +6,25 @@ p {
     font-family: 'Raleway', sans-serif;
 }
 
+#content a:visited {
+    color: inherit;
+}
+
+#languagebutton h5:hover{
+    font-size: 150%;
+}
+
+#button p:hover,#socialbuttons a:hover{
+    font-size:125%;
+}
+
+#content a:hover {
+    background: linear-gradient(to bottom left,#FFFF00 0%,#00FFFF 100%);
+    -webkit-text-fill-color: white;
+    text-decoration: none;
+    padding:5px;
+}
+
 @media (min-width: 768px){
     #left {
         position: fixed;

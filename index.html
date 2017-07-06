@@ -61,7 +61,13 @@
                         var experiences = objet['experiences'];
                         for (var experience in experiences){
                             var objet_expe = experiences[experience];
-                            if (objet_expe.hasOwnProperty('title')){
+                            if (objet_expe.hasOwnProperty('title') && objet_expe.hasOwnProperty('link')){
+                                console.log("ca marche");
+                                var title_expe = experiences[experience]['title'];
+                                var link_expe = experiences[experience]['link'];
+                                elem.insertAdjacentHTML('beforeend',"<h5><a href='"+link_expe+"' target='blank'>"+title_expe+"</a></h5>");
+                            }
+                            else if (objet_expe.hasOwnProperty('title')){
                                 var title_expe = experiences[experience]['title'];
                                 elem.insertAdjacentHTML('beforeend',"<h5>"+title_expe+"</h5>");
                             }
