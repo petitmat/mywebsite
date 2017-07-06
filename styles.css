@@ -6,6 +6,10 @@ p {
     font-family: 'Raleway', sans-serif;
 }
 
+::selection {
+    background: lightgray;
+}
+
 #content a:visited, #content a:link {
     color: black;
 }
