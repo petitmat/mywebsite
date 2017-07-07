@@ -9,7 +9,7 @@
         "content":"Je suis Matthieu Petit, étudiant de 21 ans en 5ème année à <strong>l'UTC</strong> (Université de Technologie de Compiègne) en Génie Informatique. Fort d'un background professionnel de développeur mobile, j'ai par ailleurs réalisé des <strong>projets</strong> personnels d'analyses de données."
       },
       {
-        "title" : "Expériences ?",
+        "title" : "Quoi ?",
         "experiences" : [
           {
             "link" : "https://www.greencopper.com/",
@@ -20,7 +20,7 @@
           {
             "link" : "https://imaginariumfestival.com/",
             "title" : "Imaginarium Festival",
-            "content" : "Association de l'UTC organisant un festival électro-rock réunissant plus de <strong>10000</strong> personnes. Nous avons réalisé, à deux, l'application de l'édition 2017.",
+            "content" : "Association de l'UTC organisant un festival électro-rock réunissant plus de <strong>10000</strong> personnes. Nous avons réalisé, à deux, l'<a href='https://itunes.apple.com/app/if/id1105138680?mt=8' target='blank'>application</a> de l'édition 2017.",
             "competences" : ["React Native", "Javascript"]
           },
           {
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "title" : "Quoi ?",
+        "title" : "Et après ?",
         "content" : "Je recherche un stage d'<strong>ingénieur</strong> en analyse de données entre février et juillet 2018. Je suis féru d'<strong>actualité</strong> politique et économique. De plus, j'aime découvrir de nouvelles technos et perfectionner celles que je connais déjà. Passionné tant par la <strong>visualisation</strong> que l'<strong>analyse</strong> des données, j'aime être à la recherche des mystères qu'elles recèlent."
       }
     ]
@@ -56,7 +56,7 @@
           {
             "link" : "https://imaginariumfestival.com/",
             "title" : "Imaginarium Festival",
-            "content" : "A UTC association organizing an electro-rock festival with more <strong>10000</strong> fans. We made the application of 2017 edition with a friend.",
+            "content" : "A UTC association organizing an electro-rock festival with more than <strong>10000</strong> fans. We made the <a href='https://itunes.apple.com/app/if/id1105138680?mt=8' target='blank'>mobile app</a> of 2017 edition with a friend.",
             "competences" : ["React Native", "Javascript"]
           },
           {
@@ -67,7 +67,7 @@
       },
       {
         "title":"What's next?",
-        "content" : "I'm looking for a <strong>engineer</strong> internship in data-analysis from February to July 2018. I'm interested in political and economic <strong>news</strong>. Moreover, I like discovering new techs and improve my skills. Enthusiastic about data <strong>visualization</strong> and <strong>analysis</strong>, I like to be in search of the mysteries of a dataset. "
+        "content" : "I'm looking for a <strong>engineer</strong> internship in data-analysis from February to July 2018. I'm interested in political and economic <strong>news</strong>. Moreover, I like discovering new techs and improve my skills. Enthusiastic about data <strong>visualization</strong> and <strong>analysis</strong>, I'm always looking for the mysteries of datasets. "
 
       }
     ]

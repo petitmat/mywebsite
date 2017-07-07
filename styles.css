@@ -9,9 +9,12 @@ p {
 ::selection {
     background: lightgray;
 }
+#content a {
+    text-decoration: underline;
+}
 
 #content a:visited, #content a:link {
-    color: black;
+    color: inherit;
 }
 
 #languagebutton h5:hover{
