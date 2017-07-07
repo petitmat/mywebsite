@@ -6,7 +6,7 @@
     "sections" : [
       {
         "title":"qui ?",
-        "content":"Je suis Matthieu Petit, étudiant de 21 ans en 5ème année à <strong>l'UTC</strong> (Université de Technologie de Compiègne) en Génie Informatique. Fort d'un background professionnel de développeur mobile, et ayant réalisé des <strong>projets</strong> personnels d'analyses de données."
+        "content":"Je suis Matthieu Petit, étudiant de 21 ans en 5ème année à <strong>l'UTC</strong> (Université de Technologie de Compiègne) en Génie Informatique. Fort d'un background professionnel de développeur mobile, j'ai par ailleurs réalisé des <strong>projets</strong> personnels d'analyses de données."
       },
       {
         "title" : "Expériences ?",
@@ -42,7 +42,7 @@
     "sections" : [
       {
         "title":"who?",
-        "content":"I'm Matthieu Petit, 21 y-o and I'm studying computer-science engineering for 5 years at <strong>UTC</strong> (University of Technology of Compiègne). I have a professional background as mobile-dev, and I realized personal data-analysis <strong>projects</strong>."
+        "content":"I'm Matthieu Petit, 21 y-o and I'm studying computer-science engineering for 5 years at <strong>UTC</strong> (University of Technology of Compiègne). I have a professional background as a mobile-dev, and I realized personal data-analysis <strong>projects</strong>."
       },
       {
         "title":"What?",
@@ -50,7 +50,7 @@
           {
             "link" : "https://www.greencopper.com/",
             "title" : "Greencopper",
-            "content" : "A Montreal start-up, producing mobile apps for festivals. I've made a 6-month internship here as <strong>mobile-dev</strong> last year.",
+            "content" : "A Montreal start-up, producing mobile apps for festivals. I've made a 6-month internship there as a <strong>mobile-dev</strong> last year.",
             "competences" : ["Python","Git","Fastlane","Java","Swift"]
           },
           {
