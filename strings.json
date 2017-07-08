@@ -42,7 +42,7 @@
     "sections" : [
       {
         "title":"who?",
-        "content":"I'm Matthieu Petit, 21 y-o and I'm studying computer-science engineering for 5 years at <strong>UTC</strong> (University of Technology of Compiègne). I have a professional background as a mobile-dev, and I realized personal data-analysis <strong>projects</strong>."
+        "content":"I'm Matthieu Petit, 21 y-o and I have been studying computer-science engineering for 5 years at <strong>UTC</strong> (University of Technology of Compiègne). I have a professional background as a mobile-dev, and I realize personal data-analysis <strong>projects</strong>."
       },
       {
         "title":"What?",
@@ -50,25 +50,24 @@
           {
             "link" : "https://www.greencopper.com/",
             "title" : "Greencopper",
-            "content" : "A Montreal start-up, producing mobile apps for festivals. I've made a 6-month internship there as a <strong>mobile-dev</strong> last year.",
+            "content" : "A Montreal start-up, producing mobile apps for festivals. I did a 6-month internship there as a <strong>mobile-dev</strong> last year.",
             "competences" : ["Python","Git","Fastlane","Java","Swift"]
           },
           {
             "link" : "https://imaginariumfestival.com/",
             "title" : "Imaginarium Festival",
-            "content" : "A UTC association organizing an electro-rock festival with more than <strong>10000</strong> fans. We designed the <a href='https://itunes.apple.com/app/if/id1105138680?mt=8' target='blank'>mobile app</a> of 2017 edition with a friend.",
+            "content" : "A non-profit organization setting up an electro-rock event over two days with more than <strong>10000</strong> festival-goers. We designed the <a href='https://itunes.apple.com/app/if/id1105138680?mt=8' target='blank'>mobile app</a> of the 2017 edition with a friend.",
             "competences" : ["React Native", "Javascript"]
           },
           {
             "title" : "Other skills",
-            "competences" : ["SQL","Cassandra","R", "Gephi", "Agile methods"]
+            "competences" : ["SQL","Cassandra","R", "Gephi", "Agile"]
           }
         ]
       },
       {
         "title":"What's next?",
-        "content" : "I'm looking for a <strong>engineer</strong> internship in data-analysis from February to July 2018. I'm interested in political and economic <strong>news</strong>. Moreover, I like discovering new techs and improve my skills. Enthusiastic about data <strong>visualization</strong> and <strong>analysis</strong>, I'm always looking for the mysteries of datasets. "
-
+        "content" : "I'm looking for a <strong>engineer</strong> internship in data-analysis from February to July 2018. I'm interested in political and economic <strong>news</strong>. Moreover, I like discovering new techs and improve my skills. Enthusiastic about data <strong>visualization</strong> and <strong>analysis</strong>, I'm always looking for the datasets' mysteries."
       }
     ]
   }
