@@ -17,8 +17,9 @@ p {
     color: inherit;
 }
 
-#languagebutton h5:hover{
+#languagebutton button:hover{
     font-size: 150%;
+    cursor: pointer;
 }
 
 #button p:hover,#socialbuttons a:hover{
@@ -90,12 +91,15 @@ p {
     justify-content: flex-end;
 }
 
-#languagebutton h5, #presentation h5 {
+#languagebutton button, #presentation h5 {
     color: white;
     vertical-align: bottom;
     text-align:center;
     line-height: 1.5;
     font-family: 'Raleway', sans-serif;
+    background-color: transparent;
+    border: none;
+    font-size: larger;
 }
 
 #presentation p {
@@ -112,16 +116,23 @@ p {
     font-weight: 900;
 }
 
+
 .button {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#button a:hover{
+    text-decoration: none;
 }
 
 #button p {
+    text-align: center;
+    border: none;
+    cursor: pointer;
     font-style:italic;
-    display: inline-block;
     text-transform:uppercase;
     color:#fff;
-    text-align:center;
     background: linear-gradient(to top right,#00FFFF 0%,#FFFF00 150%);
     font-weight: 700;
 }
