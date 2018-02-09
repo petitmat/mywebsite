@@ -1,16 +1,22 @@
 {
   "fr": {
     "left-title":"Salut, je suis <strong>Matthieu<strong/>,",
-    "left-text":"Étudiant en <strong>data-mining</strong><br/> à la recherche d'un <strong>stage</strong> pour février",
+    "left-text":"Étudiant en <strong>data-mining</strong><br/> à la recherche d'un premier <strong>emploi</strong> pour août/septembre",
     "left-button":"on se contacte ?",
     "sections" : [
       {
         "title":"qui ?",
-        "content":"Je suis Matthieu Petit, étudiant de 21 ans en 5ème année à <strong>l'UTC</strong> (Université de Technologie de Compiègne) en Génie Informatique. Fort d'un background professionnel de développeur mobile, j'ai par ailleurs réalisé des <strong>projets</strong> personnels d'analyses de données."
+        "content":"Je suis Matthieu Petit, étudiant de 21 ans en 5ème année à <strong>l'UTC</strong> (Université de Technologie de Compiègne) en Génie Informatique. J'ai un background professionnel d'<strong>architecte</strong> <strong>Big</strong> <strong>Data</strong> et de développeur mobile."
       },
       {
         "title" : "Quoi ?",
         "experiences" : [
+	{
+            "link" : "http://punchplatform.io/",
+            "title" : "Thales",
+            "content" : "J'ai rejoint l'équipe d'architectes Big Data de Thales Services en février 2018 pour mon stage de fin d'études. Ma mission est de tester et implémenter différents algorithmes pour la <strong>maintenance</strong> <strong>prédictive</strong> en utilisant la plateforme open source <strong>PunchPlatform</strong>.",
+            "competences" : ["Spark","Elasticsearch","Kibana","Data Science"]
+          },
           {
             "link" : "https://www.greencopper.com/",
             "title" : "Greencopper",
@@ -31,22 +37,28 @@
       },
       {
         "title" : "Et après ?",
-        "content" : "Je recherche un stage d'<strong>ingénieur</strong> en analyse de données entre février et juillet 2018. Je suis féru d'<strong>actualité</strong> politique et économique. De plus, j'aime découvrir de nouvelles technos et perfectionner celles que je maîtrise déjà. Passionné tant par la <strong>visualisation</strong> que l'<strong>analyse</strong> des données, j'aime être à la recherche des mystères qu'elles recèlent."
+        "content" : "Je vais terminer mon diplôme d'<strong>ingénieur</strong> <strong>informatique</strong> en analyse de données en juillet 2018 et je suis à la recherche d'un premier emploi en tant que Data Scientist ou Data Analyst en région parisienne. Je suis féru d'<strong>actualité</strong> politique et économique. De plus, j'aime découvrir de nouvelles technos et perfectionner celles que je maîtrise déjà. Passionné tant par la <strong>visualisation</strong> que l'<strong>analyse</strong> des données, j'aime être à la recherche des mystères qu'elles recèlent."
       }
     ]
   },
   "en":{
     "left-title":"Hi, I'm <strong>Matthieu</strong>,",
-    "left-text":"A <strong>data-mining</strong> student<br/> looking for an <strong>internship</strong> starting in February",
+    "left-text":"A <strong>data-mining</strong> student<br/> looking for a first <strong>job</strong> starting in August/September",
     "left-button":"get in touch ?",
     "sections" : [
       {
         "title":"who?",
-        "content":"I'm Matthieu Petit, 21 y-o and I have been studying computer-science engineering for 5 years at <strong>UTC</strong> (University of Technology of Compiègne). I have a professional background as a mobile-dev, and I realize personal data-analysis <strong>projects</strong>."
+        "content":"I'm Matthieu Petit, 21 y-o and I have been studying computer-science engineering for 5 years at <strong>UTC</strong> (University of Technology of Compiègne). I have a professional background as <strong>data</strong> <strong>architect</strong> and mobile-dev."
       },
       {
         "title":"What?",
         "experiences":[
+	{
+            "link" : "http://punchplatform.io/",
+            "title" : "Thales",
+            "content" : "I joined the Big Data architect team of Thales Services for my graduating internship. My mission is to test and implement different algorithms for <strong>predictive</strong> <strong>maintenance</strong> using the opensource platform <strong>PunchPlatform</strong>.",
+            "competences" : ["Spark","Elasticsearch","Kibana","Data Science"]
+          },
           {
             "link" : "https://www.greencopper.com/",
             "title" : "Greencopper",
@@ -67,7 +79,7 @@
       },
       {
         "title":"What's next?",
-        "content" : "I'm looking for a <strong>engineer</strong> internship in data-analysis from February to July 2018. I'm interested in political and economic <strong>news</strong>. Moreover, I like discovering new techs and improve my skills. Enthusiastic about data <strong>visualization</strong> and <strong>analysis</strong>, I'm always looking for the datasets' mysteries."
+        "content" : "I'm going to finish my <strong>Conputer</strong> <strong>Engineering</strong> degree in data science in July 2018 and I'm looking for my first job as a Data Scientist or Data Analyst in the PAris area. I'm interested in political and economic <strong>news</strong>. Moreover, I like discovering new techs and improve my skills. Enthusiastic about data <strong>visualization</strong> and <strong>analysis</strong>, I'm always looking for the datasets' mysteries."
       }
     ]
   }
